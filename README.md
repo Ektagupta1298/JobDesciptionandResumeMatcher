@@ -28,4 +28,11 @@ It helps **HRs and recruiters** automatically find the **top 3 resumes** that be
 
 
 ## 🏗️ Project Structure
-
+ResumeMatcher/
+│
+├── app.py # Main Flask Application
+├── templates/
+│ └── matchresume.html # Frontend HTML file
+├── uploads/ # Folder where uploaded resumes are stored
+├── requirements.txt # All dependencies
+└── README.md # Project documentation
